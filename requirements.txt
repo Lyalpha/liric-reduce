@@ -1,0 +1,6 @@
+astropy
+image_registration
+matplotlib
+numpy
+pandas
+scipy
